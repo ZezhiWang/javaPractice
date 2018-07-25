@@ -1,0 +1,2 @@
+I have implement the code that is able to handle words and phrases at the same time, and the score I am generating is the sum of all words and phrases the user input (phrases are input in quotation marks). 
+I have the default value of [count] the user should input to be 10, if the user doesn't enter that.
